@@ -2,7 +2,7 @@
 v =int(input("Enter the number of vehicles (v): "))
 w=int(input("Enter the number of wheels (w): "))
 # Check for invalid input conditions
-if w %2!=0 or w<2*vorw>4*v:
+if w %2!=0 or w<2*v:
     print("INVALID INPUT")
 else:
     fw = (w-(2 * v)) // 2
