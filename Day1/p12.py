@@ -1,15 +1,15 @@
 n = int(input("Enter the number of elements in the array\n"))
 
-arr = []
+n = []
 
 print("Enter the elements in the array")
 for i in range(n):
     num = int(input())
-    arr.append(num)
+    n.append(num)
 
 freq = {}
 
-for num in arr:
+for num in n:
     freq[num] = freq.get(num, 0) + 1
 
 max_freq = max(freq.values())
