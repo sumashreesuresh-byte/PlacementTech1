@@ -1,0 +1,6 @@
+Name,Marks
+Suma,97
+Niha,99
+Yukii,98
+Sneha,100
+Snnju,100

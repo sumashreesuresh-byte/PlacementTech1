@@ -1,0 +1,23 @@
+## EMPLOYEE DATA (SAVE THIS AS employee_data.csv),,,,,,
+,,,,,,
+EmployeeID,Name,Department,Salary,Experience,Age,City
+101,Ashok,IT,55000,3,27,Chennai
+102,Riya,HR,42000,5,30,Bangalore
+103,Kiran,Sales,38000,2,24,Hyderabad
+104,Divya,IT,75000,8,32,Chennai
+105,Meera,Finance,67000,10,40,Mumbai
+106,Rohit,Sales,29000,1,22,Pune
+107,Sameer,HR,51000,6,29,Delhi
+108,Anita,Finance,45000,4,26,Bangalore
+109,Suresh,IT,90000,12,45,Chennai
+110,Kavya,Marketing,32000,2,23,Hyderabad
+111,Vishal,Marketing,48000,5,34,Mumbai
+112,John,Sales,61000,9,36,Delhi
+113,Deepa,HR,30000,1,21,Pune
+114,Arun,Finance,52000,6,31,Chennai
+115,Nisha,IT,25000,0,20,Mumbai
+116,Varun,Sales,70000,11,38,Bangalore
+117,Aparna,Marketing,46000,4,28,Delhi
+118,Teena,IT,58000,7,35,Hyderabad
+119,Sahana,Finance,39000,2,25,Pune
+120,Arjun,HR,64000,12,41,Bangalore
